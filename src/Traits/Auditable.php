@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\AuditLog\Traits;
+namespace Kenny\Src\AuditLog\Traits;
 
 use Illuminate\Database\Eloquent\Model;
 use YourVendor\AuditLog\Models\AuditLog; // Reference your package's AuditLog model

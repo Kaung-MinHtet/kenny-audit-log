@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\AuditLog\Providers;
+namespace Kenny\Src\AuditLog\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

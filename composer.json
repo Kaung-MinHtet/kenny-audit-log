@@ -11,7 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Kenny\\AuditLog\\Providers\\AuditLogServiceProvider"
+                "Kenny\\Src\\AuditLog\\Providers\\AuditLogServiceProvider"
             ]
         }
     },

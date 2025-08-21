@@ -1,6 +1,6 @@
 <?php
 
-namespace Kenny\Src\AuditLog\Models;
+namespace Kenny\AuditLog\Src\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
